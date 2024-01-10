@@ -45,16 +45,17 @@
   display: flex;
 }
 
-.tasks {
+ul {
   margin: 0;
   padding: 0px;
 }
 
-.tasks__item {
+li {
   list-style: none;
 }
 
-.outline {
+button,
+input {
   outline: none;
 }
 
